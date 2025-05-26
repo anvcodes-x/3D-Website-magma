@@ -16,6 +16,9 @@ This project explores real-time 3D design, smooth transitions, and creative pres
 - Interactive transitions and effects
 - Scene navigation and clickable elements
 - Minimalist, responsive layout
+## 🚀 Live Demo
+
+👉 [View Live Website](https://anvcodes-x.github.io/3D-Website-magma/)
 
 ## 📁 How to Run
 
